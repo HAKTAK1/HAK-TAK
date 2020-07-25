@@ -923,12 +923,11 @@ section.lazy-placeholder:after {
 }
 .cid-s5JhYAuxRj {
   background: #c4bc3b;
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: linear-gradient(0deg, #c4bc3b, #6a2a76);
 }
 .cid-s5JhYAuxRj .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s5JhYAuxRj .video-block {
